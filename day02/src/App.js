@@ -1,8 +1,9 @@
 import "./App.css";
-import Dice from "./components/7";
+import Alam from "./components/5";
+import Oven from "./components/6";
 
 function App() {
-  return <Dice />;
+  return <Oven />;
 }
 
 export default App;
